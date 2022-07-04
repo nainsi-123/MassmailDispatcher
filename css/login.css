@@ -1,0 +1,33 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    font-family: Montserrat;
+    margin: 0;
+    padding: 0;
+    background-size: auto;
+}
+h1,h2{
+    text-align: center;
+    font-family:"Montserrat-Bold";
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+.box{
+    background-color: azure;
+    width: 400px;
+    height: 450px;
+    position: absolute;
+    text-align: left;
+    padding: 40px;
+    margin: 20px 450px 50px 450px;
+    
+}
+.form-group{
+    padding-bottom: 30px;
+}
+label{
+    padding-bottom: 10px;
+    font-family:"Montserrat-Bold";
+    line-height: 1.5;
+    font-size: 1.5rem;
+}

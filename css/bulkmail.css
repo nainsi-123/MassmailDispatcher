@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+    font-family: "Montserrat";
+}
+.background{
+    background-color: aquamarine;
+}
+.navbar {
+    padding: 0 1rem 0.5rem;
+  }
+  
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+  
+.nav-item {
+    padding: 0 18px;
+}
+  
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+.form-label{
+    font-weight: bold;
+}
