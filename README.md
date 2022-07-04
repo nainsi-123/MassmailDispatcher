@@ -1,0 +1,2 @@
+# MassmailDispatcher
+Mass Mail Dispatcher
